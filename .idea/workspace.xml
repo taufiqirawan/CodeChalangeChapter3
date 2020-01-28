@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eb51307-591b-4dd9-9f28-7456f117a665" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/text1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Janken.java" beforeDir="false" afterPath="$PROJECT_DIR$/Janken.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
