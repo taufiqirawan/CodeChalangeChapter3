@@ -16,7 +16,7 @@ public class Janken {
             System.out.println("Pemain pertama menang");
         }
     }
-    
+
     public static void Roberto() {
         Scanner input = new Scanner(System.in);
         System.out.println("pemain pertama pilih batu, gunting, kertas");
