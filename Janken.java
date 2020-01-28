@@ -16,4 +16,9 @@ public class Janken {
             System.out.println("Pemain pertama menang");
         }
     }
+
+    public void static binar()
+    {
+        System.out.println("Binar Academy");
+    }
 }
